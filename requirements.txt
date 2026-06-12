@@ -4,3 +4,4 @@ matplotlib
 yfinance
 statsmodels
 scikit-learn
+hmmlearn
